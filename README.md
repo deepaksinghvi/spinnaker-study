@@ -2,7 +2,8 @@
 Simple Quarkus Microservice for CI/CD Demo
 
 ### App can be accessed at
-https://staging.tiered-planet.net/unused-mind
+* Stage https://staging.tiered-planet.net/unused-mind
+* Prod  https://prod.tiered-planet.net/unused-mind
 
 ### CI/CD
 * [Jenkins](http://jenkins.tiered-planet.net:8080/job/unused-mind-microservice/)
